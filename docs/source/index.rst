@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 #########
-BioNetGen
+BioNetGen Documentation - Testing Version
 #########
 
 `BioNetGen <https://bionetgen.org/>`_ is software designed for modular, structure-based modeling of biochemical reaction networks.
